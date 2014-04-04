@@ -1,4 +1,4 @@
-package eu.example_service.bundle;
+package at.hoenisch.lp_solver;
 
 import net.sf.javailp.*;
 import org.junit.Test;

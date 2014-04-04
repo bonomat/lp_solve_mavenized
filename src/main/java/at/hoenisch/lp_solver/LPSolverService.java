@@ -1,12 +1,10 @@
-package eu.example_service.bundle;
+package at.hoenisch.lp_solver;
 
 import net.sf.javailp.*;
-import org.osgi.framework.Bundle;
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 
 import java.io.*;
-import java.net.URL;
 import java.util.Enumeration;
 import java.util.regex.Pattern;
 import java.util.zip.ZipEntry;
