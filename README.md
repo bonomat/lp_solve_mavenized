@@ -1,5 +1,6 @@
 # LP_Solver Mavenized and OSGi Ready
 
+
 This is an example service which mavenizes the Java ILP (java interface to integer linear programming (ILP) solvers) [Java_ILP]
 and makes it OSGi ready. The challenge was to make the native library available in OSGi
 
@@ -9,7 +10,7 @@ Apache Maven 3.0.5
 Java version: 1.7.0_51, vendor: Oracle Corporation
 Apache Karaf: 2.2.11
 
-
+Travis: [![Build Status](https://travis-ci.org/bonomat/lp_solve_mavenized.svg?branch=master)](https://travis-ci.org/bonomat/lp_solve_mavenized)
 
 ## Credits
 
