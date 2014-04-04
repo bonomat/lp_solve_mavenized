@@ -137,7 +137,7 @@
                         <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
                         <Bundle-Vendor>Philipp Hoenisch</Bundle-Vendor>
                         <Bundle-Version>${project.version}</Bundle-Version>
-                        <Bundle-Activator>eu.example_service.bundle.LPSolverService</Bundle-Activator>
+                        <Bundle-Activator>at.hoenisch.lp_solver.LPSolverService</Bundle-Activator>
                         <Export-Package>
                             net.sf.javailp.*
                         </Export-Package>

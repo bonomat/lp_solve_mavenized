@@ -18,7 +18,7 @@ public class LPSolverService implements BundleActivator {
     static {
         try {
             // load the class from class path (<Bundle-NativeCode> from pom xml or system classpath)
-            System.loadLibrary("lpsolve55j_x642"); //TODO use the platform dependent one
+            System.loadLibrary("lpsolve55j_x64"); //TODO use the platform dependent one
             System.out.println("Loading from classpath successful");
         } catch (UnsatisfiedLinkError e) {
             try {
