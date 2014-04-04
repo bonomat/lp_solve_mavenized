@@ -124,3 +124,8 @@ velocity.log*
 #clover files
 #================
 .clover
+
+#================
+#tmp files
+#================
+liblpsolve55j_x64.so
